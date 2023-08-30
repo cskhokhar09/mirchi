@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mirchi</string>
+
+    <string name="baseUrl">www.myfood.com/</string>
+</resources>
